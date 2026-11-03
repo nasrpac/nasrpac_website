@@ -17,6 +17,7 @@
       "hs.3.a":"Die cutting & embossing", "hs.3.b":"Window patching",
       "hs.4.a":"Folding & gluing — square, ready to fill", "hs.4.b":"Riptape & teartape",
       "hs.5.a":"On-site laboratory", "hs.5.b":"Waste-water recycling",
+      "tab.6":"Deliver", "hs.6.ph":"Render · Dispatch yard", "hs.6.a":"Loaded at our own docks", "hs.6.b":"Delivered across the GCC",
       "nav.capabilities":"Capabilities", "nav.industries":"Industries", "nav.story":"Our story", "nav.quality":"Quality", "nav.quote":"Quote",
       "cta.quote":"Request a quote", "cta.capabilities":"See capabilities",
       "hero.kicker":"NASR PACKAGING & PRINTING CO. · JEDDAH",
@@ -62,7 +63,7 @@
       "q.solid":"Solid waste management", "q.solid.body":"A comprehensive recycling programme diverts manufacturing by-products back into the circular economy.",
       "cl.eyebrow":"06 / Partners", "cl.title":"Trusted by<br><em>leading brands.</em>", "cl.lede":"Local, regional and multinational brands rely on Nasrpac for packaging that performs on the shelf and on the filling line.",
       "quote.eyebrow":"07 / Partnership hub", "quote.title":"Let's make something<br><em>worth holding.</em>", "quote.lede":"Share the essentials — style, quantity, deadline — and our technical team responds with pricing and lead time.",
-      "quote.tel":"Telephone", "quote.email":"Email", "quote.addr":"Facility", "quote.addr.value":"[TBD — Al-Khumrah, Jeddah, KSA]",
+      "quote.tel":"Telephone", "quote.email":"Email", "quote.addr":"Facility", "quote.addr.value":"Ibn Moammar St, Al Wadi Dist., Jeddah 22518",
       "f.name":"Full name", "f.company":"Company", "f.email":"Email", "f.phone":"Phone", "f.product":"Product type", "f.choose":"Choose…",
       "f.p1":"Folding carton", "f.p2":"Offset printing", "f.p3":"Litho lamination", "f.p4":"Die cutting", "f.p5":"Other",
       "f.qty":"Quantity", "f.message":"Message", "f.file":"Artwork / dieline (optional, PDF or AI, max 10 MB)", "f.submit":"Send request",
@@ -71,7 +72,7 @@
       "err.product":"Please choose a product type.", "err.qty":"Please enter a quantity of 1 or more.", "err.file":"File must be PDF or AI and under 10 MB.",
       "form.sending":"Sending…", "form.ok":"Thank you — your request has been recorded. Our team will respond shortly.", "form.fail":"Something went wrong. Please try again or email us directly.", "form.noEndpoint":"Demo mode: [ENDPOINT] not configured. Your details were not sent.",
       "footer.desc":"Nasr Packaging & Printing Co. — five decades of carton and printing expertise, Al-Khumrah, Jeddah.",
-      "footer.contact":"Contact", "footer.map":"Map placeholder", "footer.legal":"Company", "footer.credit":"Print precision · Al-Khumrah, Jeddah", "footer.top":"Back to top ↑",
+      "footer.contact":"Contact", "footer.map":"Map placeholder", "footer.legal":"Company", "footer.credit":"Print precision · Al-Khumrah, Jeddah", "footer.top":"Back to top ↑", "footer.made1":"Made with", "footer.made2":"by Nasrpac Team",
       "step.1.title":"Sheeting", "step.1.desc":"Board is cut from the reel into press-size sheets.",
       "step.2.title":"Printing", "step.2.desc":"Four colour units lay down yellow, magenta, cyan and black in register.",
       "step.3.title":"Die-cutting", "step.3.desc":"A steel-rule die cuts the carton shape and scores every fold line.",
@@ -88,6 +89,7 @@
       "hs.3.a":"القص بالقوالب والكبس", "hs.3.b":"لصق النوافذ",
       "hs.4.a":"الطي واللصق — علبة جاهزة للتعبئة", "hs.4.b":"شريط الفتح والتمزيق",
       "hs.5.a":"مختبر داخل المصنع", "hs.5.b":"إعادة تدوير مياه الصرف",
+      "tab.6":"التوريد", "hs.6.ph":"تصوير · ساحة الشحن", "hs.6.a":"التحميل من أرصفتنا", "hs.6.b":"التوريد إلى جميع دول الخليج",
       "nav.capabilities":"القدرات", "nav.industries":"القطاعات", "nav.story":"قصتنا", "nav.quality":"الجودة", "nav.quote":"عرض سعر",
       "cta.quote":"اطلب عرض سعر", "cta.capabilities":"استعرض القدرات",
       "hero.kicker":"شركة نصر للتعبئة والطباعة · جدة",
@@ -133,7 +135,7 @@
       "q.solid":"إدارة النفايات الصلبة", "q.solid.body":"برنامج إعادة تدوير شامل يعيد المنتجات الثانوية للتصنيع إلى الاقتصاد الدائري.",
       "cl.eyebrow":"٠٦ / الشركاء", "cl.title":"موثوقون<br><em>من علامات رائدة.</em>", "cl.lede":"تعتمد علامات محلية وإقليمية وعالمية على نصر باك في عبوات تُقنع على الرف وتعمل بكفاءة على خطوط التعبئة.",
       "quote.eyebrow":"٠٧ / مركز الشراكة", "quote.title":"لنصنع معاً شيئاً<br><em>يستحق الإمساك.</em>", "quote.lede":"شاركونا الأساسيات — النمط والكمية والموعد — وسيرد فريقنا بالتسعير ومدة التنفيذ.",
-      "quote.tel":"الهاتف", "quote.email":"البريد", "quote.addr":"المنشأة", "quote.addr.value":"[TBD — الخمرة، جدة، السعودية]",
+      "quote.tel":"الهاتف", "quote.email":"البريد", "quote.addr":"المنشأة", "quote.addr.value":"شارع ابن معمر، حي الوادي، جدة ٢٢٥١٨",
       "f.name":"الاسم الكامل", "f.company":"الشركة", "f.email":"البريد الإلكتروني", "f.phone":"الهاتف", "f.product":"نوع المنتج", "f.choose":"اختر…",
       "f.p1":"علبة كرتونية قابلة للطي", "f.p2":"طباعة أوفست", "f.p3":"تغليف ليثوغرافي", "f.p4":"قص بالقوالب", "f.p5":"أخرى",
       "f.qty":"الكمية", "f.message":"الرسالة", "f.file":"ملف التصميم / القالب (اختياري، PDF أو AI، حتى ١٠ م.ب)", "f.submit":"إرسال الطلب",
@@ -142,7 +144,7 @@
       "err.product":"يرجى اختيار نوع المنتج.", "err.qty":"يرجى إدخال كمية ١ أو أكثر.", "err.file":"يجب أن يكون الملف PDF أو AI وبحجم أقل من ١٠ م.ب.",
       "form.sending":"جارٍ الإرسال…", "form.ok":"شكراً لك — تم تسجيل طلبك. سيرد فريقنا قريباً.", "form.fail":"حدث خطأ. حاول مجدداً أو راسلنا مباشرة.", "form.noEndpoint":"وضع تجريبي: [ENDPOINT] غير مهيأ. لم تُرسل بياناتك.",
       "footer.desc":"شركة نصر للتعبئة والطباعة — خمسة عقود من خبرة الكرتون والطباعة، الخمرة، جدة.",
-      "footer.contact":"التواصل", "footer.map":"خريطة (مؤقت)", "footer.legal":"الشركة", "footer.credit":"دقة الطباعة · الخمرة، جدة", "footer.top":"إلى الأعلى ↑",
+      "footer.contact":"التواصل", "footer.map":"خريطة (مؤقت)", "footer.legal":"الشركة", "footer.credit":"دقة الطباعة · الخمرة، جدة", "footer.top":"إلى الأعلى ↑", "footer.made1":"صُنع بكل", "footer.made2":"من فريق نصر باك",
       "step.1.title":"التقطيع", "step.1.desc":"يُقطع الكرتون من البكرة إلى ألواح بحجم المطبعة.",
       "step.2.title":"الطباعة", "step.2.desc":"أربع وحدات ألوان تضع الأصفر والأرجواني والسماوي والأسود في التسجيل.",
       "step.3.title":"القص بالقوالب", "step.3.desc":"قالب فولاذي يقطع شكل العلبة ويضع علامات على كل خط طي.",
@@ -254,6 +256,8 @@
     const tabs = [...hero.querySelectorAll(".hs__tab")];
     const bars = [...hero.querySelectorAll(".hs__progress i")];
     const N = slides.length;
+    let smoothP = null;
+    hero.addEventListener("hs:smooth", (e)=>{ smoothP = e.detail; req(); });
     let cur = -1, raf = 0;
 
     // Scroll distance available inside the pinned section, and progress 0..1
@@ -270,7 +274,7 @@
     }
     function update(){
       raf = 0;
-      const p = progress() * N;                      // 0..N
+      const p = smoothP != null ? smoothP : progress() * N;   // 0..N (3D layer sends a smoothed value)
       const i = Math.min(N - 1, Math.floor(p));
       show(i);
       bars.forEach((b, k)=> b.style.setProperty("--p", Math.min(1, Math.max(0, p - k))));
